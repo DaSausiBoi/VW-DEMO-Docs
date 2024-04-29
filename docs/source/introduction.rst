@@ -13,7 +13,10 @@ Why do we need this?
 
 In turn, this will Reduces component cost per model and allow for more facilities 
 and plants around the globe to implement this demo that may not have the same 
-hardware/software we do (Current cost per setup: $7.2k, Total estimated cost per setup: $700)
+hardware/software we do.
+
+.. note::
+    The current cost per setup is around $7,200, but the total estimated cost per setup is estimated to be around $700.
 
 How will this be achieved?
 --------------------------
