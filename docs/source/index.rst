@@ -6,7 +6,7 @@ Kettering University Co-Op student to create a cheaper and equivalently efficien
 existing DEMO located in the Highway of the Autoliv Auburn Hills Technical Center (ATC).
 
 Check out the :doc:`introduction` section for further information, including
-how to :ref:`install` the project.
+how to execute project :ref:`installation`.
 
 .. note::
 
