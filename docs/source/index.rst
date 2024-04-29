@@ -19,5 +19,6 @@ Contents
 
    introduction
    getting_started
+   programming
    usage
    api
