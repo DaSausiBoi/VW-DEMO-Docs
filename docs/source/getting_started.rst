@@ -11,7 +11,7 @@ To get started, please make sure you have all the required components. These com
 - DPST switch
 - Micro HDMI male to HDMI male cable
 - HDMI gender changer, flush mount
-- Raspberry PI (This DEMO uses the 4 Model B, however you can use any model greater than or equal to the 3 Model B+)
+- Raspberry Pi 4 Model B
 - neoECU
 - 12V to 5V buck down converter
 - External power supply rated for 13.5V @ 1A
@@ -21,6 +21,11 @@ To get started, please make sure you have all the required components. These com
     - Female DB26 port for diagnostics
     - Male DB25 port for neoECU
     - Appropriate StW connector
+
+.. note::
+
+   This project uses a Raspberry Pi 4 Model B, however you can use any model greater than or equivalent to the Raspberry Pi 3 Model B+.
+
 
 Box Assembly
 ------------
