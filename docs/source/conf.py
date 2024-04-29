@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'HOD Highway DEMO'
+copyright = '2024, Autoliv Americas'
+author = 'Autoliv Americas'
 
 release = '0.1'
 version = '0.1.0'
