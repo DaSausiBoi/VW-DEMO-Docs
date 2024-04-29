@@ -11,7 +11,7 @@ DEMO setups utilizing Intrepid Control Systems hardware and software.
 Why do we need this?
 --------------------
 
-In turn, this will Reduces component cost per model and allow for more facilities 
+This project will reduce component cost per model and allow for more facilities 
 and plants around the globe to implement this demo that may not have the same 
 hardware/software we do.
 
@@ -21,6 +21,6 @@ hardware/software we do.
 How will this be achieved?
 --------------------------
 
-This will be done by eplacing costly components such as the 
+This will be done by replacing costly components such as the 
 Vehicle Spy3 software and neoVI FIRE 2 with more cost-effective and cost-friendly 
-parts that would carry out the same functions, such as a Raspberry PI and neoECU.
+parts that would carry out the same functions.
