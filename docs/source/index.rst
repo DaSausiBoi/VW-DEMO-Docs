@@ -21,5 +21,3 @@ Contents
    getting_started
    programming
    raspi
-   usage
-   api
