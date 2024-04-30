@@ -20,5 +20,6 @@ Contents
    introduction
    getting_started
    programming
+   raspi
    usage
    api
