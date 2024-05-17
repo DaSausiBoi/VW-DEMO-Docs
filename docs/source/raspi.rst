@@ -26,3 +26,15 @@ and the inserted SD card for your storage device.
 .. note::
     By flashing your SD card, the contents saved on the device will be permanently erased. Be sure to back up any files
     and data to a seperate storage device.
+
+After hitting next, a popup will appear asking if you want to "apply OS customization settings". When you press "EDIT SETTINGS",
+another popup will appear with different configuration settings. Follow the image below to set your settings to the correct configuration.
+
+.. image:: img/raspi_imager_os_custom.png
+
+.. note::
+    If you are an advanced user, or you understand how to enable SSH for the Raspberry PI, you may do so by clicking on the
+    "Services" tab and checking off the box. Otherwise, leave that box unchecked.
+
+After you have entered the correct OS configuration, save your settings. This will being you back to the previous window, where you
+can now click on "YES" to start flashing your SD card. Do not unplug your SD card or turn off your computer at this time; this may take a few minutes.
