@@ -21,3 +21,4 @@ Contents
    getting_started
    programming
    raspi
+   schematics
